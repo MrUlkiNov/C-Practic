@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8A3834-ADCF-4747-93C0-4796D86503EA}|CalculatorTest\\CalculatorTest.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatortest\\calculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E8A3834-ADCF-4747-93C0-4796D86503EA}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\calculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8A3834-ADCF-4747-93C0-4796D86503EA}|CalculatorTest\\CalculatorTest.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8A3834-ADCF-4747-93C0-4796D86503EA}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatorapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatorapp\\calculatorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8A3834-ADCF-4747-93C0-4796D86503EA}|CalculatorTest\\CalculatorTest.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatortest\\calculatortest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6E8A3834-ADCF-4747-93C0-4796D86503EA}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\calculatortest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatorapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatorapp\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|c:\\users\\samba\\source\\repos\\calculatorapp\\calculatorapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B424933-9C2B-474D-A5DF-E8E92EEC782E}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CalculatorApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:36:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CalculatorApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\MainWindow.xaml",
+              "RelativeToolTip": "CalculatorApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T20:36:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorApp.csproj",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeToolTip": "CalculatorApp\\CalculatorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T20:34:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorLogic.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorLogic.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorLogic.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorLogic.cs",
+              "RelativeToolTip": "CalculatorApp\\CalculatorLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:31:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTest.csproj",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeDocumentMoniker": "CalculatorTest\\CalculatorTest.csproj",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeToolTip": "CalculatorTest\\CalculatorTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T20:26:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorTest",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeDocumentMoniker": "CalculatorTest\\CalculatorTest.csproj",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeToolTip": "CalculatorTest\\CalculatorTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T20:24:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorTest\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTest\\UnitTest1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:21:52.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorApp",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorApp.csproj",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeToolTip": "CalculatorApp\\CalculatorApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T20:23:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\CalculatorApp\\CalculatorApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "CalculatorApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:32:18.018Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
